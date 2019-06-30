@@ -9,6 +9,6 @@
   "outDir":
     define o local dos arquivos de compilação
     
-tsc - w
+- tsc - w
   assiste o diretório atualizando o projeto de acordo com as configuraçõs de ts.config
   compila os arquivos ts em js
