@@ -1,14 +1,23 @@
 # curso-angular4
 
--tsc init
+tsc init
+===================
   Criar o arquivo tsconfig.json
-  
-- ts.config
-  ;"target":
+===================
+
+ts.config
+===================
+  - "target":
     qual a versão de compilação
-  ;"outDir":
+  - "outDir":
     define o local dos arquivos de compilação
-    
-- tsc - w
+===================    
+ 
+tsc - w
+===================    
+- 
   assiste o diretório atualizando o projeto de acordo com as configuraçõs de ts.config
   compila os arquivos ts em js
+===================
+
+Iniciar novo projeto
