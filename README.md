@@ -4,9 +4,9 @@
   Criar o arquivo tsconfig.json
   
 - ts.config
-  -- "target":
+  ;"target":
     qual a versão de compilação
-  -- "outDir":
+  ;"outDir":
     define o local dos arquivos de compilação
     
 - tsc - w
