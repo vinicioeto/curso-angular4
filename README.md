@@ -2,7 +2,7 @@
 
 tsc init
 ===================
-  'Criar o arquivo tsconfig.json'
+  ' Criar o arquivo tsconfig.json
 
 ts.config
 ===================
@@ -14,8 +14,11 @@ ts.config
  
 tsc - w
 ===================    
-- 
-  assiste o diretório atualizando o projeto de acordo com as configuraçõs de ts.config
+  - assiste o diretório atualizando o projeto de acordo com as configuraçõs de ts.config
   compila os arquivos ts em js
 
-Iniciar novo projeto
+
+Angular
+===================
+
+- Criar novo projeto Angular
