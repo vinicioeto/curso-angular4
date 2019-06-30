@@ -1,9 +1,7 @@
-# curso-angular4
+* curso-angular4
 
 tsc init
-===================
-  Criar o arquivo tsconfig.json
-===================
+  'Criar o arquivo tsconfig.json'
 
 ts.config
 ===================
