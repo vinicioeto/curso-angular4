@@ -1,11 +1,12 @@
-<h1>curso-angular4</h1>
+curso-angular4
+===================
 
 tsc init
-===================
+------------------
   * Cria o arquivo tsconfig.json
 
 ts.config
-===================
+------------------
   * "target":
     qual a versão de compilação
   * "outDir":
@@ -13,12 +14,12 @@ ts.config
 
  
 tsc - w
-===================    
+------------------ 
   * assiste o diretório atualizando o projeto de acordo com as configuraçõs de ts.config
   compila os arquivos ts em js
 
 
 Angular
-===================
+------------------
   * Criar novo projeto Angular
-    ** No prompt 'ng new nome_projeto'
+  + No prompt 'ng new nome_projeto'
