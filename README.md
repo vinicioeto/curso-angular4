@@ -22,4 +22,5 @@ tsc - w
 Angular
 ------------------
   <h4>Criar novo projeto Angular</h4>
-  * No prompt 'ng new nome_projeto'
+  
+   * No prompt 'ng new nome_projeto'
