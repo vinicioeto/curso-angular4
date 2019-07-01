@@ -1,0 +1,8 @@
+.progress{
+  background-color: gainsboro;
+  border: solid 1px black;
+}
+
+.progress-bar{
+  background: blue;
+}
