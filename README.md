@@ -24,3 +24,7 @@ Angular
   <h4>Criar novo projeto Angular</h4>
   
    * No prompt 'ng new nome_projeto'
+
+  <h4>Criar componente sem spec </h4>
+  
+   * No prompt 'ng g c nome-componente --spec=false'
